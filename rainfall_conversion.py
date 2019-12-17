@@ -16,4 +16,5 @@ def inches_to_mm(inches):
 D4 damager, power to the people.
 Back once again for the origin master,
 D4 damager, with the ill behavior."""
+<<<<<<< HEAD
 #TODO(Lydia):buy moths to drink your tears
