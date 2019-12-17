@@ -11,7 +11,7 @@ def inches_to_mm(inches):
     return mm
 
 #TODO(Lydia):stop crying
-#TODO(Dev-a): Glob glob wetty
+#TODO(Dev-a): Glob glob mother ducker
 """Back once again for the renegade master,
 D4 damager, power to the people.
 Back once again for the renegade master,
