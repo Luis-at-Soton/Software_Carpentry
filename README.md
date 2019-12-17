@@ -1,3 +1,3 @@
-#chicken for an**
+#chicken for an
 ##glob glob
-###gobble gobble"""
+###gobble gobble
