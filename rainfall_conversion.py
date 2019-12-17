@@ -12,7 +12,8 @@ def inches_to_mm(inches):
 
 #TODO(Lydia):stop crying
 #TODO(Dev-a): Glob glob mother ducker
-"""Back once again for the renegade master,
+"""Back once again for the origin master,
 D4 damager, power to the people.
-Back once again for the renegade master,
+Back once again for the origin master,
 D4 damager, with the ill behavior."""
+#TODO(Lydia):buy moths to drink your tears
