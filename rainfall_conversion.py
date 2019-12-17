@@ -12,3 +12,7 @@ def inches_to_mm(inches):
 
 #TODO(Lydia):stop crying
 #TODO(Dev-a): Glob glob wetty
+"""Back once again for the renegade master,
+D4 damager, power to the people.
+Back once again for the renegade master,
+D4 damager, with the ill behavior."""
